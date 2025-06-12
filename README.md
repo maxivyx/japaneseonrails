@@ -70,7 +70,7 @@ There's a finite amount of Japanese one can learn
 	- Maps back to one root word
 	- Bridges into grammar patterns
 
-4) **[[Word-Types|Word:]]** compound of glyphs and morphemes forming a distinct lexical item.
+4) **Word:** compound of glyphs and morphemes forming a distinct lexical item.
 
 	- Kana/Kanji form
 	- Part of speech
